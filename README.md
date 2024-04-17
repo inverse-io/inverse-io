@@ -2,7 +2,9 @@
 Hello there! I'm Ada, a curious and hard working Computer Science student. I'm hoping to one day get involved in the AI scene, but for now, I'm trying my hand at software development. <br>
 
 # Building with... 💡
-
+<a href="#">
+    <img src="dev/python.svg.svg" alt="python badge" style="vertical-align:top margin:6px 4px">
+</a>  
 # Tools 🔧
 
 
