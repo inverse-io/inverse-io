@@ -1,5 +1,8 @@
 # About 🌠🌃
-Hello there! I'm Ada, a curious and hard working Computer Science student. I'm hoping to one day get involved in the AI scene, but for now, I'm trying my hand at software development. <br>
+Hi there! I'm Ada, a curious and hard working Computer Science student. I'm hoping to one day get involved in the AI scene, but for now, I'm trying my hand at software development. <br>
+
+# Currently thinking about ... 🤔
+Nothing so far!
 
 # Building with... 💡
 <p align="left" style="vertical-align:top margin:6px 4px">
@@ -19,9 +22,22 @@ Hello there! I'm Ada, a curious and hard working Computer Science student. I'm h
 # Tools 🔧
 <p align="left" style="vertical-align:top margin:6px 4px">
     <img src="svg/dev/frameworks/qt.svg" alt="qt badge">
-    <img src="svg/dev/frameworks/nodejs_larger.svg" alt="qt badge">
-    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="qt badge">
+    <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs badge">
+    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="intellij badge">
+    <img src="svg/dev/tools/jetbrains_clion.svg" alt="clion badge">
+    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm badge">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="vscode badge">
+    <img src="svg/dev/tools/bash.svg" alt="bash badge">
+    <img src="svg/dev/tools/powershell.svg" alt="powershell badge">
+    <img src="svg/dev/tools/bash.svg" alt="clion badge">
 </p><br>
+
+# Misc 🐟
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
 
 <!-- icons link: https://github.com/MikeCodesDotNET/ColoredBadges -->
 <!-- icons link: https://github.com/Ileriayo/markdown-badges -->
