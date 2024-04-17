@@ -6,6 +6,7 @@ Hello there! I'm Ada, a curious and hard working Computer Science student. I'm h
 # Tools 🔧
 
 
+<!-- icons link: https://github.com/MikeCodesDotNET/ColoredBadges -->
 <!--
 **inverse-io/inverse-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
