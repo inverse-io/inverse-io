@@ -29,9 +29,10 @@ Nothing so far!
     <img src="svg/dev/tools/visualstudio_code.svg" alt="vscode badge">
     <img src="svg/dev/tools/bash.svg" alt="bash badge">
     <img src="svg/dev/tools/powershell.svg" alt="powershell badge">
-    <img src="svg/dev/tools/bash.svg" alt="clion badge">
     
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p><br>
 
 # Misc 🐟
@@ -40,7 +41,7 @@ Nothing so far!
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 <!-- icons link: https://github.com/MikeCodesDotNET/ColoredBadges -->
 <!-- icons link: https://github.com/Ileriayo/markdown-badges -->
