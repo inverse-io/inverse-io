@@ -30,13 +30,15 @@ Nothing so far!
     <img src="svg/dev/tools/bash.svg" alt="bash badge">
     <img src="svg/dev/tools/powershell.svg" alt="powershell badge">
     <img src="svg/dev/tools/bash.svg" alt="clion badge">
+    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 </p><br>
 
 # Misc 🐟
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 <!-- icons link: https://github.com/MikeCodesDotNET/ColoredBadges -->
