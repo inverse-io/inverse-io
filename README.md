@@ -30,7 +30,8 @@ Nothing so far!
     <img src="svg/dev/tools/bash.svg" alt="bash badge">
     <img src="svg/dev/tools/powershell.svg" alt="powershell badge">
     <img src="svg/dev/tools/bash.svg" alt="clion badge">
-    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+    
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 </p><br>
 
 # Misc 🐟
