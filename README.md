@@ -11,9 +11,7 @@ Nothing so far!
     <img src="svg/dev/languages/js.svg" alt="javascript badge">
     <img src="svg/dev/languages/html.svg" alt="html badge">
     <img src="svg/dev/languages/css3.svg" alt="css badge">
-</p>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+</p>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
