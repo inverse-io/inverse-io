@@ -1,11 +1,14 @@
 # About 🌠🌃
 Hi there! I'm Ada, a curious and hard working Computer Science student. I'm hoping to one day get involved in the AI scene, but for now, I'm trying my hand at software development. <br>
 
+I am interesting in pathfinding projects like those found in AI and robotics, but I would also be very interested in those pertaining to automating repetitive tasks. Outside of these, I would find it engaging to try my hand at even entry level work such as testing, and other aspects of software development!
+
 # Currently thinking about ... 🤔
 Working hard on learning machine learning models!
 
 # Building with... 💡
 <p align="left" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/misc/ai.svg" alt="ai badge">
     <img src="svg/dev/languages/python.svg" alt="python badge">
     <img src="svg/dev/languages/java.svg" alt="java badge">
     <img src="svg/dev/languages/js.svg" alt="javascript badge">
