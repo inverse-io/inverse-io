@@ -3,6 +3,8 @@ Hi there! I'm Ada, a curious and hard working Computer Science in an AI and ML s
 
 I'm currently interested in surgical data science.
 
+I raise goldfish as pets (my oldest is 13 at the moment, and is very blind).
+
 # Currently thinking about ... 🤔
 How to figure out dynamic time warping.
 
