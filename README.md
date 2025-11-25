@@ -28,15 +28,14 @@ How to figure out dynamic time warping.
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<p align="left" style="vertical-align:top margin:6px 4px">
-    <img src="svg/dev/frameworks/qt.svg" alt="qt badge">
-    <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs badge">
-    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="intellij badge">
-    <img src="svg/dev/tools/jetbrains_clion.svg" alt="clion badge">
-    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm badge">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="vscode badge">
-    <img src="svg/dev/tools/bash.svg" alt="bash badge">
-    <img src="svg/dev/tools/powershell.svg" alt="powershell badge">
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
     
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
