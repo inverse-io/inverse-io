@@ -1,24 +1,21 @@
 # About 🌠🌃
-Hi there! I'm Ada, a curious and hard working Computer Science student. I'm hoping to one day get involved in the AI scene, but for now, I'm trying my hand at software development. <br>
+Hi there! I'm Ada, a curious and hard working Computer Science in an AI and ML specialist. I'm hoping to one day get involved in the AI scene, and I've tried my hand at many different AI projects now! <br>
 
-I am interesting in pathfinding projects like those found in AI and robotics, but I would also be very interested in those pertaining to automating repetitive tasks. Outside of these, I would find it engaging to try my hand at even entry level work such as testing, and other aspects of software development!
+I'm currently interested in surgical data science.
 
 # Currently thinking about ... 🤔
-Working hard on learning machine learning models!
+How to figure out dynamic time warping.
 
 # Building with... 💡
-<p align="left" style="vertical-align:top margin:6px 4px">
-    <img src="svg/dev/misc/ai.svg" alt="ai badge">
-    <img src="svg/dev/languages/python.svg" alt="python badge">
-    <img src="svg/dev/languages/java.svg" alt="java badge">
-    <img src="svg/dev/languages/js.svg" alt="javascript badge">
-    <img src="svg/dev/languages/html.svg" alt="html badge">
-    <img src="svg/dev/languages/css3.svg" alt="css badge">
-</p>
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+
 
 <br>
 
@@ -51,7 +48,6 @@ Working hard on learning machine learning models!
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-<!-- icons link: https://github.com/MikeCodesDotNET/ColoredBadges -->
 <!-- icons link: https://github.com/Ileriayo/markdown-badges -->
 <!--
 **inverse-io/inverse-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
